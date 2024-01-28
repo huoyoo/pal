@@ -16,7 +16,7 @@ ps：防火墙要放行777端口
 
 #### Linux版本安装
 
-wget -O - https://github.com/huoyoo/pal/unbuntu/install.sh|sh
+wget -O - http://palu.d.hsy.com/install.sh|sh
 
 #### 微信交流群
 
